@@ -1,0 +1,9 @@
+/.vs
+/Application/bin
+/Application/obj
+/Domain/bin
+/Domain/obj
+/Persistence/bin
+/Persistence/obj
+/WebAPI/bin
+/WebAPI/obj
